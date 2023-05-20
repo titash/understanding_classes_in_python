@@ -1,2 +1,2 @@
 # understanding_classes_in_python
-Understanding Classes in Python
+Understanding implementation of Classes in Python
